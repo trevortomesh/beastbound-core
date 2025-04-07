@@ -6,11 +6,23 @@
 
 ---
 
-## 🌀 How to Play
+## 🧭 How to Play
 
-BeastBound is played entirely within **ChatGPT**. To begin your adventure, see:
+BeastBound is played entirely within **ChatGPT**. To begin your adventure, visit the link below to start your journey:
+
+👉 [**Play BeastBound here!**](https://chatgpt.com/g/g-67f3679c9db48191848b8df330156956-beastbound)
+
+For more details on gameplay, see:
 
 👉 [`player-guides/how_to_play.md`](./player-guides/how_to_play.md)
+
+---
+
+## 🌀 How to Submit a New Beast Discovery
+
+If you encounter a **new Beast** that isn’t canon yet (i.e., it has an ID number like `???` and a missing name), follow the detailed instructions for submitting your discovery here:
+
+👉 [`player-guides/submit_beast.md`](./player-guides/submit_beast.md)
 
 ---
 
