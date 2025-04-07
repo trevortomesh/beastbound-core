@@ -1,0 +1,9 @@
+{
+  "id": "BEAST-064-VEILKIN-XY23",
+  "name": "Veilkin",
+  "type": ["Echo", "Air"],
+  "level": 6,
+  "trait": "Flicker Form",
+  "moves": ["Gust Twist", "Slipcall", "Phantom Drift"],
+  "origin": "Wyrmwood Depths"
+}

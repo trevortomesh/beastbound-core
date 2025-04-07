@@ -1,0 +1,11 @@
+{
+  "player_id": "slugzzz",
+  "location": "Wyrmwood Depths",
+  "echo_mark_level": 2,
+  "party": ["Verdillo", "Murmowl", "Whispermoss"],
+  "inventory": {
+    "wildbind_orbs": 1,
+    "ash_emberheart": true
+  },
+  "journal_entries": ["Prayer Before the Flame", "Communion of the Beasts"]
+}
